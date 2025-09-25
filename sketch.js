@@ -45,8 +45,8 @@ const GLOBAL_SIZE_PULSE = 0.9;
 /* Edge titles */
 const EDGE_TOP_TEXT    = "First Love";
 const EDGE_RIGHT_TEXT  = "Hikaru Utada";
-const EDGE_BOTTOM_TEXT = "ファースト・ラブ";
-const EDGE_LEFT_TEXT   = "宇多田ヒカル";
+const EDGE_BOTTOM_TEXT = "宇多田ヒカル";
+const EDGE_LEFT_TEXT   = "ファースト・ラブ";
 
 let EDGE_MARGIN, EDGE_SIZE;
 const EDGE_ALPHA_TOP    = 200;   // 顶部透明度
