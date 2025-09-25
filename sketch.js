@@ -45,8 +45,9 @@ const GLOBAL_SIZE_PULSE = 0.9;
 /* Edge titles */
 const EDGE_TOP_TEXT    = "First Love";
 const EDGE_RIGHT_TEXT  = "Hikaru Utada";
-const EDGE_BOTTOM_TEXT = "宇多田ヒカル";
 const EDGE_LEFT_TEXT   = "ファースト・ラブ";
+const EDGE_BOTTOM_TEXT = "宇多田ヒカル";
+
 
 let EDGE_MARGIN, EDGE_SIZE;
 const EDGE_ALPHA_TOP    = 200;   // 顶部透明度
@@ -72,7 +73,7 @@ const WRITER_MAX   = 100;
 const STEP = 0.85;
 const GAP  = 17;
 const NOISE_SCALE = 0.24;
-const LETTER_MIN = 10, LETTER_MAX = 30;
+const LETTER_MIN = 10, LETTER_MAX = 26;
 
 /* —— 局部稀疏：左上 & 右下区域 —— */
 const TL_REGION = {  // 左上区域
