@@ -72,7 +72,7 @@ const WRITER_MAX   = 100;
 const STEP = 0.85;
 const GAP  = 17;
 const NOISE_SCALE = 0.24;
-const LETTER_MIN = 10, LETTER_MAX = 18;
+const LETTER_MIN = 10, LETTER_MAX = 25;
 
 /* —— 局部稀疏：左上 & 右下区域 —— */
 const TL_REGION = {  // 左上区域
